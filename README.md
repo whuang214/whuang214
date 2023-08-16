@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Will Huang</h1>
-<h3 align="center">A Junior Software Engineer</h3>
+<h3 align="center">A Full-Stack Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whuang214&label=Profile%20views&color=0e75b6&style=flat" alt="whuang214" /> </p>
