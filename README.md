@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whuang214&label=Profile%20views&color=0e75b6&style=flat" alt="whuang214" /> </p>
 
-- 🔭 I’m currently working on [Finch Collector](https://github.com/whuang214/finch-collector)
+- 🔭 I’m currently working on [Globetrotter](https://github.com/whuang214/Globetrotter)
 
 - 🌱 I’m currently learning **Django**
 
