@@ -1,4 +1,3 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6693935.jpg&f=1&nofb=1&ipt=3a4c78649f4d475ac61bc6175111b35ac8547f6b954afbe97b9dd5e4baf48909&ipo=images">
 <h1 align="center">Hi 👋, I'm Will Huang</h1>
 <h3 align="center">A Full-Stack Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
