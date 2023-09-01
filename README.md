@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whuang214&label=Profile%20views&color=0e75b6&style=flat" alt="whuang214" /> </p>
 
-- 🔭 I’m currently working on [Globetrotter](https://github.com/whuang214/Globetrotter)
+- 🔭 I’m currently working on [ChatGPT-Data](https://github.com/whuang214/chatgpt-data)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning [Microsoft Azure](https://learn.microsoft.com/en-us/training/azure/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
