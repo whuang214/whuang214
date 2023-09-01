@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whuang214&label=Profile%20views&color=0e75b6&style=flat" alt="whuang214" /> </p>
 
-- 🔭 I’m currently working on [ChatGPT-Data](https://github.com/whuang214/chatgpt-data)
+- 🔭 I’m currently working on [application-logger](https://github.com/whuang214/application-logger)
 
 - 🌱 I’m currently learning [Microsoft Azure](https://learn.microsoft.com/en-us/training/azure/)
 
