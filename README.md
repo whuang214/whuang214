@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whuang214&label=Profile%20views&color=0e75b6&style=flat" alt="whuang214" /> </p>
 
-- 🔭 I’m currently working on [VolleyScore](https://github.com/whuang214/VolleyScore)
+- 🔭 I’m currently working on [ReactChat](https://github.com/whuang214/ReactChat)
 
-- 🌱 I’m currently learning [Microsoft Azure](https://learn.microsoft.com/en-us/training/azure/)
+- 🌱 I’m currently learning [TailwindCSS](https://tailwindui.com/documentation)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
