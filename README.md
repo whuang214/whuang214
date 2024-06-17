@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whuang214&label=Profile%20views&color=0e75b6&style=flat" alt="whuang214" /> </p>
 
-- 🔭 I’m currently working on [ReactChat](https://github.com/whuang214/ReactChat)
+- 🔭 I’m currently working on [Eventify](https://github.com/whuang214/Eventify)
 
 - 🌱 I’m currently learning [TailwindCSS](https://tailwindui.com/documentation)
 
