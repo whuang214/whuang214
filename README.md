@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Eventify](https://github.com/whuang214/Eventify)
 
-- 🌱 I’m currently learning [TailwindCSS](https://tailwindui.com/documentation)
+- 🌱 I’m currently learning [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
