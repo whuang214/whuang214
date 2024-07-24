@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Eventify](https://github.com/whuang214/eventify-api)
 
-- 🌱 I’m currently learning [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio)
+- 🌱 I’m currently learning [Networking](https://www.comptia.org/certifications/network)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
