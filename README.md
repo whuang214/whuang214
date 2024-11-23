@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whuang214&label=Profile%20views&color=0e75b6&style=flat" alt="whuang214" /> </p>
 
-- 🔭 I’m currently working on [Eventify](https://github.com/whuang214/eventify-api)
+- 🔭 I’m currently working on [PantryPal](https://github.com/whuang214/PantryPal)
 
 - 🌱 I’m currently learning [Networking](https://www.comptia.org/certifications/network)
 
